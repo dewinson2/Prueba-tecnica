@@ -62,18 +62,22 @@ namespace MiWebAPI.Controllers
       return NoContent();
     }
 
-    // Eliminar un producto por ID
-    [HttpDelete("{id:int}")]
-    public async Task<ActionResult> Delete(int id)
-    {
-      var rowsDeleted = await context.Products.Where(x => x.ProductId == id).ExecuteDeleteAsync();
+        // Eliminar un producto por ID
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            var product = await context.Products.FirstOrDefaultAsync(x => x.ProductId == id);
 
-      if (rowsDeleted == 0)
-      {
-        return NotFound();
-      }
+            if (product is null)
+            {
+                return NotFound();
+            }
 
-      return NoContent();
+            context.Products.Remove(product);
+            await context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
     }
-  }
 }
