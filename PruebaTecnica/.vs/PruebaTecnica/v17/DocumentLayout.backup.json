@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\usercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4274B29-9F6D-4D16-A954-A14E7640DB3E}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\dewin\\desktop\\prueba\\pruebatecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,24 +42,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Productscontrollers.cs",
+              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Controllers\\Productscontrollers.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\Productscontrollers.cs",
+              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Controllers\\Productscontrollers.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\Productscontrollers.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:38:02.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T06:04:22.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Usercontrollers.cs",
               "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Controllers\\Usercontrollers.cs",
               "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\Usercontrollers.cs",
-              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Controllers\\Usercontrollers.cs*",
-              "RelativeToolTip": "PruebaTecnica\\Controllers\\Usercontrollers.cs*",
+              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Controllers\\Usercontrollers.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\Usercontrollers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T15:26:59.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T15:26:59.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\TodoContext.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:46:17.974Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\Product.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:50:31.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\Role.cs",
               "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Role.cs",
@@ -72,42 +119,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TodoContext.cs",
-              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\TodoContext.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\TodoContext.cs",
-              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\TodoContext.cs*",
-              "RelativeToolTip": "PruebaTecnica\\Models\\TodoContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T10:46:17.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Productscontrollers.cs",
-              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Controllers\\Productscontrollers.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\Productscontrollers.cs",
-              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Controllers\\Productscontrollers.cs",
-              "RelativeToolTip": "PruebaTecnica\\Controllers\\Productscontrollers.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T10:38:02.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Models\\Product.cs",
-              "RelativeToolTip": "PruebaTecnica\\Models\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T06:50:31.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T06:03:07.692Z"
             },
             {
               "$type": "Document",
@@ -120,32 +140,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-24T06:05:49.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
-              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
-              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
-              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-24T06:04:22.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Program.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
-              "ToolTip": "C:\\Users\\dewin\\Desktop\\Prueba\\PruebaTecnica\\PruebaTecnica\\Program.cs",
-              "RelativeToolTip": "PruebaTecnica\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T06:03:07.692Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
